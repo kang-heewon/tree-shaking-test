@@ -1,4 +1,3 @@
-import { Icon } from "./icons";
-
-Icon.fill.A();
-Icon.fill.B();
+import "./commonjs-tree-shaking";
+// import "./inner-module-tree-shaking";
+// import "./nested-tree-shaking";

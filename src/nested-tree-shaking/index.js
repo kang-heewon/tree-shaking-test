@@ -1,3 +1,3 @@
 import * as Icon from "./icon";
 
-export { Icon };
+Icon.fill.A();
